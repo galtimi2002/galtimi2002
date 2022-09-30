@@ -1,0 +1,4 @@
+- 👋 Hi, I am Timi
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML, CSS, C++, Python
+- 📫 How to reach me: gl.tmea90@gmail.com
